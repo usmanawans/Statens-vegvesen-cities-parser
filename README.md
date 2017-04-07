@@ -1,6 +1,13 @@
 # REST_statensvegvesen_v1
 This is project has been created for the strudents Software Architecture and Frameworks (DAVE3615)
 
+# Access Points
+
+| Request | Point |
+| ------ | ------ |
+| GET | ```/city ``` |
+| GET | ```/vegvesen ``` |
+
 ```javascript
 {
 	"current_city": "http://localhost:8080/city",
