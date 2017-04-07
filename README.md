@@ -1,7 +1,7 @@
-# REST_statensvegvesen_v1
+# REST Statensvegvesen v1
 This is project has been created for the strudents Software Architecture and Frameworks (DAVE3615)
 
-# Access Points
+## Access Points
 
 | Request | Point |
 | ------ | ------ |
