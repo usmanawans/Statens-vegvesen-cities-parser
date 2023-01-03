@@ -1,4 +1,4 @@
-package com.svv;
+package no.norbay;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

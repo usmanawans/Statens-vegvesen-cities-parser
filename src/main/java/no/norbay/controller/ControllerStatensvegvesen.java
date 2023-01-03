@@ -1,4 +1,4 @@
-package com.svv.controller;
+package no.norbay.controller;
 
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -13,13 +13,6 @@ import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
 import java.net.URL;
-
-/**
- * Created by Usman on 07.04.2017.
- *
- * This class will be connecting with StatensVegvesen's Service
- * It fetches the high way contract areas in Norway
- */
 
 @RestController
 public class ControllerStatensvegvesen {
